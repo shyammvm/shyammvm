@@ -1,5 +1,5 @@
 # Hi, I'm Shyam
- Aspiring Data Engineer |  Exploring AI/ML & Cloud | Photography Enthisiast
+ Aspiring Data Engineer |  Exploring AI/ML & Cloud | Photography Enthusiast
 
 - ✨ Fascinated by **creative problem solving** and finding simple solutions to complex challenges  
 - 🎨 Drawn to projects that combine **creativity and technology**  
