@@ -11,6 +11,5 @@
 
 ---
 
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shyammvm&show_icons=true&theme=radical)
+### Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shyammvm?theme=dark&font=Karma&ext=heatmap)
